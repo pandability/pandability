@@ -21,10 +21,10 @@
   </div>
 
 ---
-Домашние задания и проделанная работа:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="20" height="20"/> Задание по оформлению найденных багов в Jira: https://github.com/pandability/Jira
-- <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="20" height="20"/> Задачи по функционалу Charles Proxy: https://drive.google.com/drive/folders/1Cs7uNtdiR0B3bRL7RM9_0dSUOvrx7CsI?usp=sharing
-- <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="20" height="20"/> Задание по созданию собственной коллекции в Postman: https://www.postman.com/pandability/workspace/pandability-store/collection/19326299-8422bb91-9ff7-4f9d-9847-13c32960a87f?action=share&creator=19326299
+### 🧑‍💻 Домашние задания и проделанная работа:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="20" height="20"/> Задание по оформлению найденных багов в Jira: [pandability/Jira](https://github.com/pandability/Jira)
+- <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="20" height="20"/> [Задачи по функционалу Charles Proxy](https://drive.google.com/drive/folders/1Cs7uNtdiR0B3bRL7RM9_0dSUOvrx7CsI?usp=sharing)
+- <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="20" height="20"/> [Задание по созданию собственной коллекции в Postman](https://www.postman.com/pandability/workspace/pandability-store/collection/19326299-8422bb91-9ff7-4f9d-9847-13c32960a87f?action=share&creator=19326299)
 
 ---
 
