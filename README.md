@@ -25,11 +25,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Автоматизация тестирования. С чего начать и как перейти?](https://www.youtube.com/watch?v=88X7pJFn7-I)
-- [Ресурсы для Тестировщика на Английском Языке #тестировщикснуля #тестировщикпо #artsiomrusau #shorts](https://www.youtube.com/watch?v=4s2719fqnNg)
-- [Всегда рад новым подписчикам на Artsiom Rusau QA Life - канал для тестировщиков!](https://www.youtube.com/watch?v=z3I7dHmApZ4)
-- [Что такое идентификация, аутентификация и авторизация?  #qaкурсы #тестировщикснуля #тестированиепо](https://www.youtube.com/watch?v=lodvbXiX6vA)
-- [Что делает тестировщик автоматизатор простыми словами?  #qaкурсы #тестировщикснуля #войтивайти](https://www.youtube.com/watch?v=jVDuA12J8bc)
+- [Заброшка](https://www.youtube.com/watch?v=pPV-EzrN61I)
+- [DJI 0014](https://www.youtube.com/watch?v=sfytLMviesg)
+- [Заброшенная ферма, д. Царицыно &lpar;Cinelog35 V2&rpar;](https://www.youtube.com/watch?v=wIFpKI0hEKk)
+- [Untitled](https://www.youtube.com/watch?v=KtyBdBNXveE)
+- [озеро Сынтул](https://www.youtube.com/watch?v=183kpCH_l_k)
 <!-- YOUTUBE:END -->
 
 ---
